@@ -1,0 +1,28 @@
+.custom-react-colorful .react-colorful {
+  width: 20rem;
+  height: 26rem;
+}
+
+.custom-react-colorful .react-colorful__saturation{
+  height: 20rem;
+  border-radius: 0.5rem;
+}
+
+.custom-react-colorful .react-colorful__saturation-pointer {
+  width: 16px;
+  height: 16px;
+  border-radius: 0.25rem;
+}
+
+.custom-react-colorful .react-colorful__hue,
+.custom-react-colorful .react-colorful__alpha {
+  border-radius: 0.5rem;
+  height: 2.5rem;
+}
+
+.custom-react-colorful .react-colorful__hue-pointer,
+.custom-react-colorful .react-colorful__alpha-pointer {
+  width: 16px;
+  height: 2.5rem;
+  border-radius: 0.25rem;
+}

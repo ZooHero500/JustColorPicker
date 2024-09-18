@@ -1,0 +1,16 @@
+name = "JustColorPicker"
+type = "webpack"
+account_id = "bc6a778e391acd2055ff90f461abbf21"
+workers_dev = true
+route = ""
+zone_id = ""
+usage_model = ""
+compatibility_date = "2021-11-12"
+
+[site]
+bucket = "public"
+entry-point = "."
+
+[build]
+command = "npm run build"
+upload.format = "service-worker"

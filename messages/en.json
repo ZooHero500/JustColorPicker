@@ -1,0 +1,83 @@
+{
+  "Home": {
+    "best-practices": "Best Practices, Used with Raycast Extensions"
+  },
+
+  "UseRaycastExtension": {
+    "title": "Best Practices with Raycast Extension",
+    "install-extension-title": "1. Install the Just Color Picker Extension",
+    "install-extension": "Raycast Extension Installation Address：",
+    "extension-name": "Just Color Picker",
+    "copy-color-value-title": "2. Copy the color value",
+    "copy-color-value": "Copy the color value",
+    "paste-color-value-title": "3. Paste the color value into the Just Color Picker Extension",
+    "paste-color-value-description": "After pasting the color value, you can see the color value and the color preview in the Just Color Picker Extension.",
+    "view-color-title": "4. View color or jump selections",
+    "paste-color-value-description2": "Once you have copied the color values, you can paste them into a code editor or design tool, or jump to the JustColorPicker tool station to make color adjustments.",
+    "use-it-to-your-heart-content": "5. As far as the eye can see, use it to your heart&apos;s content"
+  },
+
+  "FAQ": {
+    "title": "GOT QUESTIONS?",
+    "subtitle": "Everything You Need to Know, All in One Place"
+  },
+
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "introduction": "At JustColorPicker, we are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of your information.",
+    "dataCollection": {
+      "title": "Information Collection",
+      "content": "JustColorPicker does not collect any personal information or user data. We do not use cookies, tracking technologies, or any other means to gather information about our users."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Our application does not use cookies or similar tracking technologies."
+    },
+    "changes": {
+      "title": "Changes to This Privacy Policy",
+      "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us."
+    }
+  },
+
+  "UsagePolicy": {
+    "title": "Usage Policy",
+    "introduction": "This Usage Policy outlines the terms and conditions for using JustColorPicker. By using our application, you agree to comply with this policy.",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By using JustColorPicker, you acknowledge that you have read, understood, and agree to be bound by this Usage Policy."
+    },
+    "usage": {
+      "title": "Permitted Use",
+      "personal": "You may use JustColorPicker for personal, non-commercial purposes.",
+      "commercial": "Commercial use is permitted, provided you comply with this Usage Policy.",
+      "modification": "You may not modify, adapt, or hack the JustColorPicker application."
+    },
+    "restrictions": {
+      "title": "Restrictions",
+      "redistribution": "You may not redistribute, sell, lease, license, or sublicense JustColorPicker.",
+      "harmful": "You may not use JustColorPicker for any harmful, abusive, or illegal purposes.",
+      "illegal": "You may not use JustColorPicker to violate any laws or regulations."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "JustColorPicker is provided 'as is' without warranty of any kind. We are not responsible for any errors or omissions in the application."
+    },
+    "changes": {
+      "title": "Changes to This Usage Policy",
+      "content": "We reserve the right to modify this Usage Policy at any time. We will notify users of any changes by posting the new Usage Policy on this page."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Usage Policy, please contact us."
+    }
+  },
+
+  "NotFound": {
+    "not-found": "Sorry, the page you are looking for does not exist.",
+    "back-to-home": "Back to home"
+  }
+}

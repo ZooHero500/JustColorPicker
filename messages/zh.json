@@ -1,0 +1,83 @@
+{
+  "Home": {
+    "best-practices": "最佳实践,用于 Raycast 扩展"
+  },
+
+  "UseRaycastExtension": {
+    "title": "Raycast 扩展最佳实践",
+    "install-extension-title": "一、安装 JustColorPicker 扩展",
+    "install-extension": "Raycast 扩展安装地址：",
+    "extension-name": "JustColorPicker",
+    "copy-color-value-title": "二、复制颜色值",
+    "copy-color-value": "复制颜色值",
+    "paste-color-value-title": "三、将颜色值粘贴到 JustColorPicker 扩展中",
+    "paste-color-value-description": "复制颜色值后,您可以在 JustColorPicker 扩展中看到颜色值和颜色预览。",
+    "view-color-title": "四、查看颜色或跳转选择",
+    "paste-color-value-description2": "一旦您复制了颜色值,您可以将它们粘贴到代码编辑器或设计工具中,或跳转到 JustColorPicker 工具站进行颜色调整。",
+    "use-it-to-your-heart-content": "五、目之所及, 尽情使用"
+  },
+
+  "FAQ": {
+    "title": "有问题吗?",
+    "subtitle": "您需要知道的一切,都在这里"
+  },
+
+  "PrivacyPolicy": {
+    "title": "隐私政策",
+    "introduction": "在 JustColorPicker,我们致力于保护您的隐私。本隐私政策解释了我们关于收集、使用和披露您信息的做法。",
+    "dataCollection": {
+      "title": "信息收集",
+      "content": "JustColorPicker 不收集任何个人信息或用户数据。我们不使用 cookies、跟踪技术或任何其他方式来收集有关用户的信息。"
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "我们的应用程序不使用 cookies 或类似的跟踪技术。"
+    },
+    "changes": {
+      "title": "本隐私政策的变更",
+      "content": "我们可能会不时更新我们的隐私政策。我们会通过在此页面上发布新的隐私政策来通知您任何变更。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对本隐私政策有任何问题,请联系我们。"
+    }
+  },
+
+  "UsagePolicy": {
+    "title": "使用政策",
+    "introduction": "本使用政策概述了使用 JustColorPicker 的条款和条件。使用我们的应用程序即表示您同意遵守本政策。",
+    "acceptance": {
+      "title": "接受条款",
+      "content": "使用 JustColorPicker 即表示您确认已阅读、理解并同意受本使用政策的约束。"
+    },
+    "usage": {
+      "title": "允许的使用",
+      "personal": "您可以将 JustColorPicker 用于个人、非商业目的。",
+      "commercial": "允许商业使用,前提是您遵守本使用政策。",
+      "modification": "您不得修改、改编或破解 JustColorPicker 应用程序。"
+    },
+    "restrictions": {
+      "title": "限制",
+      "redistribution": "您不得重新分发、出售、租赁、许可或转授权 JustColorPicker。",
+      "harmful": "您不得将 JustColorPicker 用于任何有害、滥用或非法目的。",
+      "illegal": "您不得使用 JustColorPicker 违反任何法律或法规。"
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "content": "JustColorPicker 按\"原样\"提供,不提供任何形式的保证。我们对应用程序中的任何错误或遗漏不承担责任。"
+    },
+    "changes": {
+      "title": "本使用政策的变更",
+      "content": "我们保留随时修改本使用政策的权利。我们将通过在此页面上发布新的使用政策来通知用户任何变更。"
+    },
+    "contact": {
+      "title": "联系我们",
+      "content": "如果您对本使用政策有任何问题,请联系我们。"
+    }
+  },
+
+  "NotFound": {
+    "not-found": "抱歉，您要找的页面不存在。",
+    "back-to-home": "返回首页"
+  }
+}
