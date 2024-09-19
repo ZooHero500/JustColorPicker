@@ -27,7 +27,7 @@ const ColorValueGroup: React.FC<ColorValueGroupProps> = ({ color, onChange }) =>
   const [value, setValue] = useState<string>(tabs[0].value)
 
   return (
-    <div className="flex flex-col w-full items-start mt-4 px-8 md:items-end md:mt-0 md:w-auto">
+    <div className="flex flex-col w-full items-start mt-4 px-8 md:px-0 md:items-end md:mt-0 md:w-auto">
       <Tabs className='order-last mt-4 md:order-first md:mt-0' defaultValue={tabs[0].value}>
         <TabsList className="border shadow-xs">
           {tabs.map(tab => (
