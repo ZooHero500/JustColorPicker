@@ -14,3 +14,4 @@ entry-point = "."
 [build]
 command = "npm run build"
 upload.format = "service-worker"
+compatibility_flags = [ "nodejs_compat" ]
