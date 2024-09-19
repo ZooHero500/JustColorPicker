@@ -1,3 +1,5 @@
+export const runtime = 'edge'
+
 import type { Metadata, Viewport } from 'next'
 // import '@/styles/globals.css'
 
@@ -47,26 +49,6 @@ export default async function RootLayout({
             <Toaster />
           </NextIntlClientProvider>
         </ThemeProvider>
-
-        {/* 注册 Service Worker */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-            if ('serviceWorker' in navigator) {
-              window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js').then(
-                  function(registration) {
-                    console.log('Service Worker registration successful with scope: ', registration.scope);
-                  },
-                  function(err) {
-                    console.log('Service Worker registration failed: ', err);
-                  }
-                );
-              });
-            }
-          `
-          }}
-        />
       </body>
     </html>
   )
