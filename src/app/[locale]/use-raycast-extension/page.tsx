@@ -15,7 +15,7 @@ export default function UseRaycastExtensionPage() {
           {t('install-extension')}
           <Link
             className="text-blue-500 underline"
-            href="https://www.raycast.com/raycast-extension/color-picker"
+            href="https://www.raycast.com/ZooHero/justcolorpicker-raycast"
             target="_blank"
           >
             {t('extension-name')}
