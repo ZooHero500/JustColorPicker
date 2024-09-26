@@ -10,7 +10,8 @@
     "pages:build": "npx @cloudflare/next-on-pages",
     "pages:deploy": "npm run pages:build && wrangler pages deploy .vercel/output/static",
     "pages:watch": "npx @cloudflare/next-on-pages --watch",
-    "pages:dev": "npx wrangler pages dev .vercel/output/static --compatibility-date=2023-06-21 --compatibility-flag=nodejs_compat"
+    "pages:dev": "npx wrangler pages dev .vercel/output/static --compatibility-date=2023-06-21 --compatibility-flag=nodejs_compat",
+    "postinstall": "next-sitemap"
   },
   "dependencies": {
     "@cloudflare/next-on-pages": "^1.13.2",
