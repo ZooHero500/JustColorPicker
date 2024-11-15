@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://justcolorpicker.com
+
+# Sitemaps
+Sitemap: https://justcolorpicker.com/sitemap.xml

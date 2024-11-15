@@ -49,6 +49,21 @@ export default async function RootLayout({
             <Toaster />
           </NextIntlClientProvider>
         </ThemeProvider>
+
+        {process.env.NODE_ENV === 'production' && (
+          <>
+            <script
+              defer
+              src="https://monitor.zoohero.org/script.js"
+              data-website-id="2336f19b-a251-4081-9b5d-a23fe1058af4"
+            ></script>
+            <script
+              defer
+              data-domain="justcolorpicker.com"
+              src="https://plausible.zoohero.org/js/script.js"
+            ></script>
+          </>
+        )}
       </body>
     </html>
   )
