@@ -12,6 +12,6 @@ export const config = {
     '/(en|zh)/:path*',
 
     // 匹配其他路径，但排除静态资源和特定路径
-    '/((?!api|_next|_vercel|.*\\.(ico|png|jpg|jpeg|svg|css|js)$).*)'
+    '/((?!api|studio|_next|_vercel|.*\\..*).*)'
   ]
 }
